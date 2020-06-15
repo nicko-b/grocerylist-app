@@ -1,5 +1,5 @@
 import React from 'react';
-import GroceryList from './GroceryList.js'
+import ClassList from './ClassList.js'
 import './App.css'
 function App() {
   return (
